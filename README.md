@@ -1,1 +1,1 @@
-# odin-recipes
+Create a basic recipe web site. Use HTML, git, and eventually CSS.# odin-recipes
